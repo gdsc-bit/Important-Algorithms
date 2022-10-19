@@ -20,9 +20,10 @@ A  set of rules to be followed in calculations or other problem-solving operatio
     - Language Independent
 
 ### Types of Algorithms
-**1. Brute Force Algorithm:** It is the simplest approach for a problem. A brute force algorithm is the first approach that comes to finding when we see a problem.
+**1. Brute Force Algorithm:** It is the simplest approach for a problem. A brute force algorithm is the first approach that comes to finding when we encounter a problem.
 
-**2. Recursive Algorithm** : A recursive algorithm is based on recursion. In this case, a problem is broken into several sub-parts and called the same function again and again.
+**2. Recursive Algorithm** : A recursive algorithm is based on recursion. In this case, a problem is broken into several sub-parts and called the same function again and again.Examples of such problems are Tower of Hanoi,DFS of graph,inorder/preorder/postorder - Tree traversal.
+
 
 **3. Backtracking Algorithm:** The backtracking algorithm basically builds the solution by searching among all possible solutions. Using this algorithm, we keep on building the solution following criteria. Whenever a solution fails we trace back to the failure point and build on the next solution and continue this process till we find the solution or all possible solutions are looked after.
 
