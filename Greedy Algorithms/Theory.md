@@ -1,4 +1,4 @@
-Greedy Algorithm
+# Greedy Algorithm
 
 
 The greedy method is one of the strategies like Divide and conquer used to solve the problems. This method is used for solving optimization problems. An optimization problem is a problem that demands either maximum or minimum results. Let's understand through some terms.
@@ -9,21 +9,22 @@ This technique is basically used to determine the feasible solution that may or 
 
 **The components that can be used in the greedy algorithm are:**
 
-->Candidate set: A solution that is created from the set is known as a candidate set.
-->Selection function: This function is used to choose the candidate or subset which can be added in the solution.
-->Feasibility function: A function that is used to determine whether the candidate or subset can be used to contribute to the solution or not.
-->Objective function: A function is used to assign the value to the solution or the partial solution.
-->Solution function: This function is used to intimate whether the complete function has been reached or not.
+- Candidate set: A solution that is created from the set is known as a candidate set.
+- Selection function: This function is used to choose the candidate or subset which can be added in the solution.
+- Feasibility function: A function that is used to determine whether the candidate or subset can be used to contribute to the solution or not.
+- Objective function: A function is used to assign the value to the solution or the partial solution.
+- Solution function: This function is used to intimate whether the complete function has been reached or not.
 
-Applications of Greedy Algorithm
+#### Applications of Greedy Algorithm
    It is used in finding the shortest path.
    It is used to find the minimum spanning tree using the prim's algorithm or the Kruskal's algorithm.
    It is used in a job sequencing with a deadline.
    This algorithm is also used to solve the fractional knapsack problem.
    
-Pseudo code of Greedy Algorithm
+#### Pseudo code of Greedy Algorithm
    
-   Algorithm Greedy (a, n)  
+```
+Algorithm Greedy (a, n)  
 {  
    Solution : = 0;  
   for i = 0 to n do  
@@ -36,6 +37,7 @@ Pseudo code of Greedy Algorithm
        return solution;
   } 
 }  
+```
   
   
   
