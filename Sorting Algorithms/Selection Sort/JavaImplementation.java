@@ -1,4 +1,4 @@
-Sample code in java to solve problem :-
+//Sample code in java to solve problem :-
 
 
 class SelectionSort
