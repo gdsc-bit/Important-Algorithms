@@ -12,12 +12,13 @@ A  set of rules to be followed in calculations or other problem-solving operatio
 </p>
 
 ### Characteristics :
-    - Clear and Unambiguous
-    - Well-Defined Inputs
-    - Well-Defined Outputs
-    - Finite-ness
-    - Feasible
-    - Language Independent
+
+- Clear and Unambiguous
+- Well-Defined Inputs
+- Well-Defined Outputs
+- Finite-ness
+- Feasible
+- Language Independent
 
 ### Types of Algorithms
 **1. Brute Force Algorithm:** It is the simplest approach for a problem. A brute force algorithm is the first approach that comes to finding when we encounter a problem.
