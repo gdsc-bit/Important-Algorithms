@@ -20,17 +20,17 @@ END MERGE_SORT
 The important part of the merge sort is the MERGE function. This function performs the merging of two sorted sub-arrays that are A[beg…mid] and A[mid+1…end], to build one sorted array A[beg…end]. So, the inputs of the MERGE function are A[], beg, mid, and end.
 
 #### Merge sort complexity
+- Time Complexity
 
-1. Time Complexity
-<p>
-<li>Best Case	O(n*logn)
-<li>Average Case	O(n*logn)
-<li>Worst Case	O(n*logn)
-<li>Best Case Complexity - It occurs when there is no sorting required, i.e. the array is already sorted. The best-case time complexity of merge sort is O(n*logn).</li>
-<li>Average Case Complexity - It occurs when the array elements are in jumbled order that is not properly ascending and not properly descending. The average case time complexity of merge sort is O(n*logn).</li>
-<li>Worst Case Complexity - It occurs when the array elements are required to be sorted in reverse order. That means suppose you have to sort the array elements in ascending order, but its elements are in descending order. The worst-case time complexity of merge sort is O(n*logn).</li>
+  - Best Case	O(n*logn)
+  - Average Case	O(n*logn)
+  - Worst Case	O(n*logn)
+  - Best Case Complexity - It occurs when there is no sorting required, i.e. the array is already sorted. The best-case time complexity of merge sort is O(n*logn).
+  - Average Case Complexity - It occurs when the array elements are in jumbled order that is not properly ascending and not properly descending. The average case time complexity of merge sort is O(n*logn).
+  - Worst Case Complexity - It occurs when the array elements are required to be sorted in reverse order. That means suppose you have to sort the array elements in ascending order, but its elements are in descending order. The worst-case time complexity of merge sort is O(n*logn).
 
-2. Space Complexity
-Space Complexity	O(n)
-Stable	YES
-The space complexity of merge sort is O(n). It is because, in merge sort, an extra variable is required for swapping.</p>
+- Space Complexity
+
+  - Space Complexity	O(n)
+  - Stable	YES
+  - The space complexity of merge sort is O(n). It is because, in merge sort, an extra variable is required for swapping.
