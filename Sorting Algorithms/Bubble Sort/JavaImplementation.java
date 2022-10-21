@@ -1,4 +1,4 @@
-Java program to solve bubble sort problem:
+//Java program to solve bubble sort problem:
 
 
 class BubbleSort {
