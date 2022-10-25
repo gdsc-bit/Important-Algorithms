@@ -17,4 +17,4 @@ Steps:
 3. Move n-1 disk from auxillary tower to destination tower. 
 4. Transferring top n-1 disks from source to auxillary tower can again be thought as a fresh problem and can be solved in the same manner(using the concept of Recursion) 
 
-![image](https://imgbb.com/"><img src="https://i.ibb.co/X5WcL9R/tower-of-hanoi-two-disks.gif)
+<img src="https://i.ibb.co/X5WcL9R/tower-of-hanoi-two-disks.gif">
