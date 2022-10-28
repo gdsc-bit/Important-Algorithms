@@ -1,4 +1,4 @@
-### Prim's Algorithm
+# Prim's Algorithm
 
 In this tutorial, you will learn how Prim's Algorithm works. Also, you will find working examples of Prim's Algorithm in C, C++, Java and Python.
 
