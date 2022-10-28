@@ -2,7 +2,7 @@
 
 import java.util.*; 
 
-public class primsclass {
+public class PrimsClass {
 	static final int MAX =20 ; 
 	static int n ; 
 	static int cost[][]; 
