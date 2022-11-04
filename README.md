@@ -1,7 +1,6 @@
 # Important-Algorithms
 
 
-#### ``` You can contribute to the relevant files in order to complete tasks for Hacktoberfest and make this a one-stop solution for all :)```
 
 
 ## Algorithm
